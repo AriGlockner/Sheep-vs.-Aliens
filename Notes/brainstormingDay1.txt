@@ -1,0 +1,44 @@
+tower defence
+-goofy/light hearted
+- sheep v aliens
+-play as sheep stopping cows from being abducted
+-lore from the perspective of conspiracy theorist
+-maybe use other farm animals as weapons
+-currency is wool
+it is night time, the farmer is alseep
+-flying/grouded aliens 
+
+tower ideas
+-spoiled milk (poison)
+-launcher
+-pig sty the spreads mud (slowing)
+-exloding kitten launcher
+-rooster close range scream
+-bee swarm
+-geese who do the peckening
+-flaming chickens
+-jack o laturn catapult
+-charging goat
+-trojan horse
+
+alien ideas
+-green(default tourist)
+--relativly slow
+--week
+--only dan
+-princess aliens
+--more health
+--removes debuffs
+--has universal remote style 
+--pink skin
+--butterfly wings
+--named minibosses
+-mothership
+--is the queen as a bio ship
+--final boss
+-flying one(bug wings)
+
+
+
+future
+temp defences
