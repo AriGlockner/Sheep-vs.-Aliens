@@ -25,7 +25,7 @@ alien ideas
 -green(default tourist)
 --relativly slow
 --week
---only dan
+--only dangerous in large numbers
 -princess aliens
 --more health
 --removes debuffs
